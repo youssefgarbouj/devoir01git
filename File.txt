@@ -1,1 +1,1 @@
-Feature 1 implemented
+Feature 2 + Feature 1
